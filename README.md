@@ -25,7 +25,7 @@ python3 hackimage.py
 |--|--|
 
 
-- Sending information and photos of Hof to Telegram bot
+- Send target information and photo to Telegram bot
 
 
 | ![screenshot3](https://www.uplooder.net/img/image/36/476b2590251a44d59b14575393260e3a/Picsart-23-01-29-19-22-32-088.png) | ![screenshot4](https://www.uplooder.net/img/image/54/68e26e88413438e2795039c2d73f9bb2/Picsart-23-01-29-19-18-01-697.png) |
